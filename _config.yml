@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Sai Abhishek Siddhartha Namburu"
-  avatar           : "profile.png"
+  avatar           : "websitepicture.png"
   bio              : "Mechanical Engineering Graduate student at the Carnegie Mellon University with specialization in Computer Vision"
   location         : "Carnegie Mellon University"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "snamburu@andrew.cmu.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Siddhartha-Namburu"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/namburusiddhartha"
   google_plus      :
   keybase          :
   instagram        :
