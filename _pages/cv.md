@@ -137,7 +137,7 @@ Research & Teaching
   
 Certificates & Achievements
 ======
-* **Robotics Software Engineer* :** Udacity \[In Progress]
+* **Robotics Software Engineer :** Udacity \[In Progress]
 * **Deep Learning Specialization:** Deeplearning.ai, Coursera \[December 2018]
 * **Machine Learning:** Coursera \[December 2018]
 * **C, C++, Java programming**: NIIT \[May 2019]
