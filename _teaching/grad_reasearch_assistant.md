@@ -2,7 +2,7 @@
 title: "Graduate Research Assistant (CMU)"
 collection: teaching
 type: "Graduate Research"
-permalink: /teaching/2021-fall-RAship
+permalink: /teaching/grad_reasearch_assistant
 venue: "Human Sensing Lab, Carnegie Mellon University"
 date: 2021-09-01
 location: "Pittsburgh, U.S.A."
