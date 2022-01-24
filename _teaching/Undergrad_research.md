@@ -1,46 +1,26 @@
-# openGL 2-D Path Planning Visualizations
-## GRID BASED PLANNERS
-#### Djikstra
-<!-- ![me](https://github.com/NinaadDamis/Path-Planning-Visualizations/blob/main/gifs/djikstra.gif) -->
-<img src="https://github.com/NinaadDamis/Path-Planning-Visualizations/blob/main/gifs/djikstra.gif" width="500">
+---
+title: "Undergraduate Research Intern"
+collection: teaching
+type: "Undergraduate Thesis"
+permalink: /teaching/Undergrad_research
+venue: "Mechanical Engineering Department, BITS-Pilani Hyderabad"
+date: 2018-06-01
+location: "Bangalore, India"
+---
+
+Research Intern with Prof.[Amit Kumar Gupta](https://www.bits-pilani.ac.in/hyderabad/akgupta/profile) of the Mechanical Engineering Department, BITS-Pilani Hyderabad. 
+
+Research Overview
+======
+Prof.[Amit Kumar Gupta](https://www.bits-pilani.ac.in/hyderabad/akgupta/profile)'s research focusses on Tensile testing, constitutive modeling, Sheet metal forming. The project we worked on compares and fits different constitutive models to stress-strain data different grade tungsten alloys. Additionally, we explored usage of different neural network to predict the elasticity of the alloys.
 
 
-#### A*
-
-<!-- ![me](https://github.com/NinaadDamis/Path-Planning-Visualizations/blob/main/gifs/a_star.gif) -->
-<img src="https://github.com/NinaadDamis/Path-Planning-Visualizations/blob/main/gifs/a_star.gif" width="500">
-
-#### Weighted A*
-
-<!-- ![me](https://github.com/NinaadDamis/Path-Planning-Visualizations/blob/main/gifs/wastar.gif) -->
-<img src="https://github.com/NinaadDamis/Path-Planning-Visualizations/blob/main/gifs/wastar.gif" width="500">
+My Contributions
+======
+* Modified and modelled different constitutive equations - JC, ZA, Arrhenius, KHL and RK to different heavy alloys of tungsten and EDD steel at elevated temperatures and wide range of strain rates.
+* Created a software that takes in input of stress, strain data, type of model to predict flow behaviour.
+* Compared the predictions of these constitutive models with the experimental values using statistical measures like correlation coefficient, average absolute error and its standard deviation.
+* Developed processing maps for better understanding of response of a material to the imposed experimental parameters.
+* Implemented a partially-trained neural network in a central way in an iterative non-linear finite element analysis of the test specimen in order to extract approximate, but gradually improving, stress–strain information with which to train the neural network.
 
 
-<!-- <div align=right>
-<table>
-  <tr>
-    <td><img src="https://github.com/zhm-real/path-planning-algorithms/blob/master/Search_based_Planning/gif/BF.gif" alt="dfs" width="400"/></a></td>
-    <td><img src="https://github.com/zhm-real/path-planning-algorithms/blob/master/Search_based_Planning/gif/Dijkstra.gif" alt="dijkstra" width="400"/></a></td>
-  </tr>
-</table>
-</div> -->
-
-## SAMPLING BASED PLANNERS
-#### RRT
-
-<!-- ![me](https://github.com/NinaadDamis/Path-Planning-Visualizations/blob/main/gifs/rrt.gif) -->
-<img src="https://github.com/NinaadDamis/Path-Planning-Visualizations/blob/main/gifs/rrt.gif" width="500">
-
-#### RRT-Connect
-
-<!-- ![me](https://github.com/NinaadDamis/Path-Planning-Visualizations/blob/main/gifs/rrt_connect.gif) -->
-<img src="https://github.com/NinaadDamis/Path-Planning-Visualizations/blob/main/gifs/rrt_connect.gif" width="500">
-
-#### RRT*
-
-<!-- ![me](https://github.com/NinaadDamis/Path-Planning-Visualizations/blob/main/gifs/rrt_star.gif) -->
-<img src="https://github.com/NinaadDamis/Path-Planning-Visualizations/blob/main/gifs/rrt_star.gif" width="500">
-
-
-<!-- ![Farmers Market Finder - Animated gif demo](demo/demo.gif)
-https://github.com/NinaadDamis/Path-Planning-Visualizations/blob/main/gifs/test.gif -->
