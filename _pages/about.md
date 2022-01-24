@@ -23,7 +23,7 @@ I am interested in developing cross-disciplinary deep learning solutions, in par
 Other Interests
 -----
 * Passionate about gaming and computer graphics.
-* Love creating some notes in my piano.
+* Love playing music on my piano.
 
 Contact
 -----
