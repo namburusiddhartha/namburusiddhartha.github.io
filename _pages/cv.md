@@ -99,7 +99,7 @@ Projects
       * Implemented the Neural style transfer algorithm utilizing VGG-16 that merges content and style images to create a generated image.
       * Computed cost function using the Gram matrix of that layer’s activations. The overall style cost function is obtained using several hidden layers.
   * **Tech Stack:** Python, tensorflow
-  * * **[Code](https://github.com/namburusiddhartha/Neural-Style-transfer)** 
+  * **[Code](https://github.com/namburusiddhartha/Neural-Style-transfer)** 
 
 * **Algorithm to reduce epicyclic geartrains by Isomorphism test:** February 2018 – April 2018
   * **Description:** 
