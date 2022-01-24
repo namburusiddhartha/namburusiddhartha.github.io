@@ -70,7 +70,7 @@ Projects
       * Implemented RRT, RRT*, RRT Connect, A*, Weighted A* and Dijikstra in 2D using object oriented paradigm.
       * Visualized the search of these planner using openGL in 2D. Developed a GUI to make the product market ready.
   * **Tech Stack:** C++, openGL
-  * **[Report](https://github.com/namburusiddhartha/Path_Planning_open_GL)**
+  * **[Code and Report](https://github.com/namburusiddhartha/Path_Planning_open_GL)**
 
 * **Home Service Robot:** June 2021 – July 2021
   * **Description:** 
