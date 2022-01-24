@@ -1,46 +1,22 @@
-# openGL 2-D Path Planning Visualizations
-## GRID BASED PLANNERS
-#### Djikstra
-<!-- ![me](https://github.com/NinaadDamis/Path-Planning-Visualizations/blob/main/gifs/djikstra.gif) -->
-<img src="https://github.com/NinaadDamis/Path-Planning-Visualizations/blob/main/gifs/djikstra.gif" width="500">
+---
+title: "Teaching Assistant (Bio-Inspired Robotics)"
+collection: teaching
+type: "Graduate course"
+permalink: /teaching/Teaching_grad
+venue: "Mechanical Engineering Department, Carnegie Mellon University"
+date: 2022-01-24
+location: "Pittsburgh, U.S.A"
+---
+
+**Course:** Bioinspired Robot Design and Experimentation
+Teaching Assistant to Professor [Victoria Webster-Wood](https://www.meche.engineering.cmu.edu/directory/bios/webster-wood-victoria.html) for the course 24775 Bioinspired Robot Design and Experimentation (Lecture, Projects).
+
+Course Overview
+======
+The primary goals of the course is propose and test a research hypothesis with an experimental robotic system. This focuses on topics in bioinspired robotics and involves testing a biological hypothesis using a robot or testing a hypothesis about the robot that is based on bioinspired robotic principles. 
 
 
-#### A*
+My Contribution
+======
 
-<!-- ![me](https://github.com/NinaadDamis/Path-Planning-Visualizations/blob/main/gifs/a_star.gif) -->
-<img src="https://github.com/NinaadDamis/Path-Planning-Visualizations/blob/main/gifs/a_star.gif" width="500">
-
-#### Weighted A*
-
-<!-- ![me](https://github.com/NinaadDamis/Path-Planning-Visualizations/blob/main/gifs/wastar.gif) -->
-<img src="https://github.com/NinaadDamis/Path-Planning-Visualizations/blob/main/gifs/wastar.gif" width="500">
-
-
-<!-- <div align=right>
-<table>
-  <tr>
-    <td><img src="https://github.com/zhm-real/path-planning-algorithms/blob/master/Search_based_Planning/gif/BF.gif" alt="dfs" width="400"/></a></td>
-    <td><img src="https://github.com/zhm-real/path-planning-algorithms/blob/master/Search_based_Planning/gif/Dijkstra.gif" alt="dijkstra" width="400"/></a></td>
-  </tr>
-</table>
-</div> -->
-
-## SAMPLING BASED PLANNERS
-#### RRT
-
-<!-- ![me](https://github.com/NinaadDamis/Path-Planning-Visualizations/blob/main/gifs/rrt.gif) -->
-<img src="https://github.com/NinaadDamis/Path-Planning-Visualizations/blob/main/gifs/rrt.gif" width="500">
-
-#### RRT-Connect
-
-<!-- ![me](https://github.com/NinaadDamis/Path-Planning-Visualizations/blob/main/gifs/rrt_connect.gif) -->
-<img src="https://github.com/NinaadDamis/Path-Planning-Visualizations/blob/main/gifs/rrt_connect.gif" width="500">
-
-#### RRT*
-
-<!-- ![me](https://github.com/NinaadDamis/Path-Planning-Visualizations/blob/main/gifs/rrt_star.gif) -->
-<img src="https://github.com/NinaadDamis/Path-Planning-Visualizations/blob/main/gifs/rrt_star.gif" width="500">
-
-
-<!-- ![Farmers Market Finder - Animated gif demo](demo/demo.gif)
-https://github.com/NinaadDamis/Path-Planning-Visualizations/blob/main/gifs/test.gif -->
+Provided learning support to 50 students as teaching assistant to Prof.Victoria Webster-Wood. Helping with organising events, monitoring the projects and evaluating assignments. 
