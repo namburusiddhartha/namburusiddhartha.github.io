@@ -14,7 +14,7 @@ I am currently working on leveraging the use of synthetic data in recognising ac
 
 Prior to my master's at CMU, I worked as a machine learning engineer at DeepEdge where I integrated computer vision models on edge devices. I used Python (Tensorflow, Pytorch, Caffee, MxNet, onnx, TensorRT), C++(with cuda kernels and thrust library), Docker, to integrate face recognition, object detection, and pose estimation solutions on edge devices based on Ambarella(CV25) and Jetson-Nano. 
 
-My interest in this field in my undergrad where I used evolutionary neural networks to predict the demand for fashion apparel. I also worked as a full-time intern at Nomura where I collaborated with the FinTech team in implementing ML, NLP technologies to automate use-cases in the finance division. Through this exercise, I gained an understanding of basic ML algorithms, specifically when I used and tested clustering algorithms like HBOS, DBSCAN.
+My interest in this field started in my undergrad where I used evolutionary neural networks to predict the demand for fashion apparel. I also worked as a full-time intern at Nomura where I collaborated with the FinTech team in implementing ML, NLP technologies to automate use-cases in the finance division. Through this exercise, I gained an understanding of basic ML algorithms, specifically when I used and tested clustering algorithms like HBOS, DBSCAN.
 
 Research Interest
 ------
