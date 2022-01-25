@@ -72,6 +72,16 @@ Projects
   * **Tech Stack:** C++, openGL
   * **[Code and Report](https://github.com/namburusiddhartha/Path_Planning_open_GL)**
 
+* **Computer Vision Assignments:** August 2021 -- November 2021
+  * **Description:** 
+      * Implemented visual object tracking with Lucas-Kanade forward additive image alignment algorithm and Matthew-Bakers Inverse Compositional alignment algorithm.
+      * Performed 3-D Reconstruction of a temple estimating Fundamental matrix using with 8/7-point algorithm and RANSAC.
+      * Worked on stitching panoramas utilizing homography and RANSAC.
+      * Implemented MNIST character detection recognition using neural nets and acheived an accuracy greater than 90%
+      * Used Spatial Pyramid Matching of image word maps to recognise the location of an image.
+  * **Tech Stack:** Python, PyTorch
+  * **[Code and Report](https://github.com/namburusiddhartha/Computer_Vision_assignments)**
+
 * **Home Service Robot:** June 2021 – July 2021
   * **Description:** 
       * Deployed a turtlebot mobile robot in a designed custom environment in gazebo to pick-up and drop-off objects in the environment.
