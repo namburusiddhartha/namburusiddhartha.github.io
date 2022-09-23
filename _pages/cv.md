@@ -17,7 +17,7 @@ Education
 Work experience
 ======
 * **May 2022 - August 2022:** Computer Vision Intern
-  * **Location:** SRI International, Menlo Park, CA
+  * **Location:** SRI (Stanford Research International) International, Menlo Park, CA
   * **Description:** 
        * Developed an Attention-based Visual Dossier matching module to recognize whole-body ID with an accuracy of 91% based on 3D mesh and view angles generated using VIBE from pixel enhanced videos.
        * Generated pixel enhanced videos (2x better SNR) from U-Net based network by removing pixel shift and blur in videos.
