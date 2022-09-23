@@ -16,6 +16,28 @@ Education
 
 Work experience
 ======
+* **May 2022 - August 2022:** Computer Vision Intern
+  * **Location:** SRI International, Menlo Park, CA
+  * **Description:** 
+       * Developed an Attention-based Visual Dossier matching module to recognize whole-body ID with an accuracy of 91% based on 3D mesh and view angles generated using VIBE from pixel enhanced videos.
+       * Generated pixel enhanced videos (2x better SNR) from U-Net based network by removing pixel shift and blur in videos.
+       * Trained VIBE with an additional silhouette-based loss to generate shape aware 3D meshes of humans from videos.
+
+* **August 2020 - August 2021:** Machine Learning Engineer
+  * **Location:** [DeepEdge](https://www.deepedge.ai/), Hyderabad - India
+  * **Description** 
+       * Developed a face recognition solution(RetinaFace + ArcFace + SORT) for body cameras worn by security officials. Integrated the pipeline by developing an application in K7 Camera(Ambarella CV25 chip) to inference on real time data. [[code]](https://github.com/namburusiddhartha/Face-Recognition-system---Retinaface-Arcface) [[code]](https://github.com/namburusiddhartha/Retinaface)
+       * Modified and trained a Mask-RCNN to detect custom objects, draw masks and identify keypoints of interest in pytorch. Improved inference speed by 3x by converting the model into TensorRT using TensorRT wrappers. 
+       * Accelerated Iterative Point Cloud algorithm (based on open3d) by 2.5x using cuda kernels and thrust library. 
+       * Analysed and calculated GAIT Characteristic parameters like stepcount, stance, swing from a pre-trained openpose pose detection model for an autonomous walker.
+
+* **July 2018 - December 2018:** Fintech Intern
+  * **Location:** Nomura Services India Private Limited, Mumbai - India 
+  * **Description** 
+       * Assisted Nomura’s FinTech division: Responsible for conceptualization and execution of Nomura technology development program - Implemented AI/ML, NLP technologies to automate use-cases across various divisions.
+
+Research/Academic experience
+======
 
 * **September 2021 - Present:** Graduate Research Assistant
   * **Location:** Human Sensing Lab, Carnegie Mellon University
@@ -25,55 +47,34 @@ Work experience
   * **[Code](https://github.com/namburusiddhartha/Action_recognition_with_GRL)** 
   * **Supervisor:** Professor [Fernando De La Torre](https://www.cs.cmu.edu/~ftorre/) and Prof. [Jessica K. Hodgins](https://www.cs.cmu.edu/~jkh/)
   
-* **August 2020 - August 2021:** Machine Learning Engineer
-  * **Location:** [DeepEdge](https://www.deepedge.ai/), Hyderabad - India
-  * **Description** 
-       * Developed a face recognition solution(RetinaFace + ArcFace + SORT) for body cameras worn by security officials. Integrated the pipeline by developing an application in K7 Camera(Ambarella CV25 chip) to inference on real time data. [[code]](https://github.com/namburusiddhartha/Face-Recognition-system---Retinaface-Arcface) [[code]](https://github.com/namburusiddhartha/Retinaface)
-       * Modified and trained a Mask-RCNN to detect custom objects, draw masks and identify keypoints of interest in pytorch. Improved inference speed by 3x by converting the model into TensorRT using TensorRT wrappers. [[code]](https://github.com/namburusiddhartha/Object-Detection-with-tensorRT) 
-       * Accelerated Iterative Point Cloud algorithm (based on open3d) by 2.5x using cuda kernels and thrust library. [[code]](https://github.com/namburusiddhartha/ICP_with_cuda)
-       * Analysed and calculated GAIT Characteristic parameters like stepcount, stance, swing from a pre-trained openpose pose detection model for an autonomous walker.
 
 * **August 2020 - August 2021:** Project Assistant
   * **Location:** Indian Institute of Science, Bangalore - India 
   * **Description** 
-       * Devised a structural optimization algorithm to optimize the shape of interface in heat exchanger to ensure maximun possible heat transfer between two liquids.
-       * Developed thermal resistance networks in python and simulated FE flow in the heat exchanger.
-       * Investigated effects of various design parameters and operating conditions on a s-CO2 compressor in a sub-scale s-CO2 system at IISc.
+       * Devised optmisation algorithms in python for effective heat transfer.
   * **Supervisor:** Professor [Anathasuresh](https://mecheng.iisc.ac.in/people/g-k-ananthasuresh/), Prof. [Pramod Kumar](https://mecheng.iisc.ac.in/people/pramod-kumar/)
-
-* **July 2018 - December 2018:** Fintech Intern
-  * **Location:** Nomura Services India Private Limited, Mumbai - India 
-  * **Description** 
-       * Assisted Nomura’s FinTech division: Responsible for conceptualization and execution of Nomura technology development program - Implemented AI/ML, NLP technologies to automate use-cases across various divisions.
-       * Implemented an anomaly detection solution for finance division by testing and using HBOS (Histogram-Based Outlier Score) and DBSCAN (Density-based spatial clustering of applications with noise) for trade profiles to flag false trades.
-
-* **May 2016 - July 2016:** Undergrad Research Intern
-  * **Location:** Control Systems Lab, DRDO, Hyderabad - India 
-  * **Description** 
-       * Designed and re-modelled wing deployment mechanism of an unmanned air-vehicle featuring actuators, aerodynamic design of wing and fin assembly for different locking positions.
-       * Proposed addition of new components which significantly decrease the potential risk in the air vehicle.
-       * Validated the proposed assembly by conducting real time simulation study by using ANSYS Structural and Fluent.
-* **Supervisor:** Dr [Rahul Dixit](https://www.linkedin.com/in/dr-rahul-dixit-4a101817/?originalSubdomain=in)
-
+      
 
 Projects
 ======
-* **Emotion Recognition in Multi-Party Conversations using Multi-Modal Approach:** October 2021 -- November 2021
+* **Inter-Vehicular Depth and Velocity Estimation using a Monocular Camera (CMU):** February 2022 -- May 2022
   * **Description:** 
-      * Achieved an accuracy of 60% in predicting sentiment and emotion by combining text and audio modules of multi-party conversations in friends using shallow machine learning models.
-      * Deployed various feature engineering methods to improve the accuracy by 5%. Compared the results with t-CNN, d-RNN and bc-LSTM and reasoned the accuracies.
-  * **Tech Stack:** Python, PyTorch, Tensorflow
-  * **[Code and Report](https://github.com/namburusiddhartha/24787-Project_Multi-Modal-Approach-for-Sentiment-Analysis)**
+      * Modified Monoflex to regress for 3D key points from single image to predict depth of vehicles. Reduced dependence on data by implicitly learning for uncoupled representations (3D orientations) of a car maintaining similar AP.
+      * Integrated kalman filter based AB3MOT with the Monoflex (using its depth predictions) achieving 3% less error in velocity prediction compared to using PointRCNN backbone.
+      * Attained comparable accuracy by regressing for velocity and depth directly from a Multi-scale Vision Transformer. 
+  * **Tech Stack:** Python, PyTorch
+  * **[Code and Report](https://github.com/namburusiddhartha/Depth-and-Velocity-Prediction-using-Monocular-Images)**
 
-* **Robot Planner Visualization:** October 2021 -- November 2021
+* **MyTorch Framework and Deep Learning (CMU):** February 2022 -- May 2022
   * **Description:** 
-      * Implemented RRT, RRT*, RRT Connect, A*, Weighted A* and Dijikstra in 2D using object oriented paradigm.
-      * Visualized the search of these planner using openGL in 2D. Developed a GUI to make the product market ready.
-  * **Tech Stack:** C++, openGL
-  * **[Code and Report](https://github.com/namburusiddhartha/Path_Planning_open_GL)**
+      * Developed a deep learning framework with functional modules like Conv1D, Conv2D, LSTM, GRU, Attention and iterative optimization algorithms including Adam, SGD and RMSprop.
+  * **Tech Stack:** Python
+  * **[Code and Report](https://github.com/namburusiddhartha/Deep_Learning_11785_CMU)**
 
-* **Computer Vision Assignments:** August 2021 -- November 2021
+* **Visual Learning and Computer Vision Assignments (CMU):** August 2021 -- May 2022
   * **Description:** 
+      * Implemented a weakly supervised object localization network and a deep detection network with AlexNet backbone on Pascal dataset and obtained comparable accuracy with supervised object detection methods.
+      * Trained a GAN on CUB 2011 dataset to generate realistic looking birds with standard GAN, LSGAN and WGAN-GP losses and compared the FID scores. Tested disentanglement of latent space by interpolating it.
       * Implemented visual object tracking with Lucas-Kanade forward additive image alignment algorithm and Matthew-Bakers Inverse Compositional alignment algorithm.
       * Performed 3-D Reconstruction of a temple estimating Fundamental matrix using with 8/7-point algorithm and RANSAC.
       * Worked on stitching panoramas utilizing homography and RANSAC.
@@ -81,6 +82,22 @@ Projects
       * Used Spatial Pyramid Matching of image word maps to recognise the location of an image.
   * **Tech Stack:** Python, PyTorch
   * **[Code and Report](https://github.com/namburusiddhartha/Computer_Vision_assignments)**
+
+
+* **Emotion Recognition in Multi-Party Conversations using Multi-Modal Approach (CMU):** October 2021 -- November 2021
+  * **Description:** 
+      * Achieved an accuracy of 60% in predicting sentiment and emotion by combining text and audio modules of multi-party conversations in friends using shallow machine learning models.
+      * Deployed various feature engineering methods to improve the accuracy by 5%. Compared the results with t-CNN, d-RNN and bc-LSTM and reasoned the accuracies.
+  * **Tech Stack:** Python, PyTorch, Tensorflow
+  * **[Code and Report](https://github.com/namburusiddhartha/24787-Project_Multi-Modal-Approach-for-Sentiment-Analysis)**
+
+* **Robot Planner Visualization (CMU):** October 2021 -- November 2021
+  * **Description:** 
+      * Implemented RRT, RRT*, RRT Connect, A*, Weighted A* and Dijikstra in 2D using object oriented paradigm.
+      * Visualized the search of these planner using openGL in 2D. Developed a GUI to make the product market ready.
+  * **Tech Stack:** C++, openGL
+  * **[Code and Report](https://github.com/namburusiddhartha/Path_Planning_open_GL)**
+
 
 * **Home Service Robot:** June 2021 – July 2021
   * **Description:** 
@@ -103,13 +120,6 @@ Projects
   * **Tech Stack:** Python
   * **[Code](https://github.com/namburusiddhartha/Youtube-comment-classification)** 
   
-* **Neural Style transfer and face recognition for the Happy house:** September 2018 - October 2018
-  * **Description:** 
-      * Used a pre-trained FaceNet system that utilizes a deep convolution net and stochastic gradient descent, implementing the triplet loss function to recognize faces.
-      * Implemented the Neural style transfer algorithm utilizing VGG-16 that merges content and style images to create a generated image.
-      * Computed cost function using the Gram matrix of that layer’s activations. The overall style cost function is obtained using several hidden layers.
-  * **Tech Stack:** Python, tensorflow
-  * **[Code](https://github.com/namburusiddhartha/Neural-Style-transfer)** 
 
 * **Algorithm to reduce epicyclic geartrains by Isomorphism test:** February 2018 – April 2018
   * **Description:** 
@@ -117,19 +127,13 @@ Projects
       * Algorithm first generates all possible Epi cyclic gear trains(EGT) and associates each them to a matrix using hammingmethod, then checks for translational and rotational isomorphism retaining non-isomorphic gear trains.
   * **Tech Stack:** Matlab
 
-* **Constitutive modelling and processing map analysis of different alloys:** Jan 2017 -- May 2018
-  * **Description:** 
-      * Modified and modelled different constitutive equations - JC, ZA, Arrhenius, KHL and RK to different heavy alloys of tungsten and EDD steel at elevated temperatures and wide range of strain rates.
-      * Implemented a partially-trained neural network in a central way in an iterative non-linear finite element analysis of the test specimen in order to extract approximate, but gradually improving, stress–strain information with which to train the neural network.
-  * **Tech Stack:** Matlab
 
 Skills
 ======
-* **Programming Languages:**  Python, C/C++ (Cuda kernels and thrust library), Java, R
-* **Deep-Learning Frameworks:**  PyTorch, TensorRT, Keras, Tensorflow(1 and 2), Caffee, MXNet
+* **Programming Languages:**  Python, C/C++ (Cuda kernels and thrust library), R
+* **Deep-Learning Frameworks:**  PyTorch, TensorRT, Keras, Tensorflow(1 and 2)
 * **Tools:**  Docker, Scikit learn, OpenCV, SQL, MS Office, LaTeX, GitHub
-* **Application Software:** ROS, MATLAB, Gazebo, ANSYS (CFD and FEA), COMSOL, AxSTREAM, Solidworks, Creo
-
+* **Application Software:** ROS, MATLAB, Gazebo
 Publications
 ======
 <!--   <ul>{% for post in site.publications %}
@@ -150,7 +154,7 @@ Certificates & Achievements
 * **Robotics Software Engineer :** Udacity \[In Progress]
 * **Deep Learning Specialization:** Deeplearning.ai, Coursera \[December 2018]
 * **Machine Learning:** Coursera \[December 2018]
-* **C, C++, Java programming**: NIIT \[May 2019]
+* **C, C++ programming**: NIIT \[May 2019]
 * **Excel to My SQL Analytics techniques:** Coursera \[Jun 2018]
 * **Bloomberg Market Concepts:** Bloomberg \[Aug 2017]
 * **R programming training:** Innodatatics USA \[Aug 2017]
