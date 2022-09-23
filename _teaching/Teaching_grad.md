@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant (Bio-Inspired Robotics) (current)"
+title: "Teaching Assistant (Bio-Inspired Robotics)"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/Teaching_grad
