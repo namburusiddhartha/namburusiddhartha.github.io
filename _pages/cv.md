@@ -51,7 +51,7 @@ Research/Academic experience
 * **August 2020 - August 2021:** Project Assistant
   * **Location:** Indian Institute of Science, Bangalore - India 
   * **Description** 
-       * Devised optmisation algorithms in python for effective heat transfer.
+       * Devised optmisation algorithms in python for efficient heat transfer.
   * **Supervisor:** Professor [Anathasuresh](https://mecheng.iisc.ac.in/people/g-k-ananthasuresh/), Prof. [Pramod Kumar](https://mecheng.iisc.ac.in/people/pramod-kumar/)
       
 
