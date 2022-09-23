@@ -26,7 +26,7 @@ Work experience
 * **August 2020 - August 2021:** Machine Learning Engineer
   * **Location:** [DeepEdge](https://www.deepedge.ai/), Hyderabad - India
   * **Description** 
-       * Developed a face recognition solution(RetinaFace + ArcFace + SORT) for body cameras worn by security officials. Integrated the pipeline by developing an application in K7 Camera(Ambarella CV25 chip) to inference on real time data. [[code]](https://github.com/namburusiddhartha/Face-Recognition-system---Retinaface-Arcface) [[code]](https://github.com/namburusiddhartha/Retinaface)
+       * Collaborated to develop a face recognition solution(RetinaFace + ArcFace + SORT) for body cameras worn by security officials. Integrated the pipeline by developing an application in K7 Camera(Ambarella CV25 chip) to inference on real time data. [[code]](https://github.com/namburusiddhartha/Face-Recognition-system---Retinaface-Arcface) [[code]](https://github.com/namburusiddhartha/Retinaface)
        * Modified and trained a Mask-RCNN to detect custom objects, draw masks and identify keypoints of interest in pytorch. Improved inference speed by 3x by converting the model into TensorRT using TensorRT wrappers. 
        * Accelerated Iterative Point Cloud algorithm (based on open3d) by 2.5x using cuda kernels and thrust library. 
        * Analysed and calculated GAIT Characteristic parameters like stepcount, stance, swing from a pre-trained openpose pose detection model for an autonomous walker.
