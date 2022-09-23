@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Master of Science in Computational Design and Manufacturing, Carnegie Mellon University, Concentration: Robotics and Control, 2021-2023 [current GPA: 4.0/4.0]
+* Master of Science in Computational Design and Manufacturing, Carnegie Mellon University, Concentration: Computer Vision and Machine Learning, 2021-2022 (Dec) [current GPA: 4.0/4.0]
 * B.E. (Hons.) Mechanical Engineering, Birla Institute of Technology and Science (BITS) Pilani - India, 2015-2020 [GPA: 8.74/10]
 
 Work experience
