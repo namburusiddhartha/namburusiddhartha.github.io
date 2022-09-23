@@ -5,5 +5,6 @@ permalink: /publication/2022-paper
 excerpt: 'This paper is about generating synthetic data to improve performance of action recognition models'
 date: In Review
 venue: 'Computer Vision and Pattern Recognition (CVPR)'
+paperurl: 'None'
 
 ---
