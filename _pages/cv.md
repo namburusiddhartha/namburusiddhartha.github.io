@@ -134,11 +134,14 @@ Skills
 * **Deep-Learning Frameworks:**  PyTorch, TensorRT, Keras, Tensorflow(1 and 2)
 * **Tools:**  Docker, Scikit learn, OpenCV, SQL, MS Office, LaTeX, GitHub
 * **Application Software:** ROS, MATLAB, Gazebo
+
+
 Publications
 ======
 <!--   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
+  * Submitted paper to CVPR 2023 for review - Multi-view and Multi-domain Human Activity Recognition
   * [Constitutive modelling and processing map analysis of tungsten heavy alloy (92.5W-5.25Ni-2.25Fe) at elevated temperatures, Second author, International Journal of Refractory Metals and Hard Materials](https://www.sciencedirect.com/science/article/abs/pii/S0263436818303469)
   * [Algorithm to reduce epicyclic gear trains by testing for Isomorphism](https://drive.google.com/file/d/1FMFuYCh4md1BE73OmBuI2IrwNaIZ--zF/view)
 
